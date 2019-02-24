@@ -1,0 +1,238 @@
+Early Shakespeare
+	two_gentlemen.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	comedy_errors.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	henryviPart2.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	henryivPart2.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	richardii.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	merry_wives.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	merchant-venice.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	henryv.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	midsummer.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	Love_Labours_lost.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	asyoulikeit.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	julius_caesar.txt.E-Shakespeare.tok
+	Late Shakespeare
+
+	Titus_Andronicus.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	henryviPart3.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	henryivPart1.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	henryviPart1.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	Hamlet.txt.E-Shakespeare.tok
+	Late Shakespeare
+
+	King John.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	richardiii.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	much_ado.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	romeo_juliet.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	taming_shrew.txt.E-Shakespeare.tok
+	Early Shakespeare
+
+	twelfth_night.txt.E-Shakespeare.tok
+	Late Shakespeare
+
+Late Shakespeare
+	Lear.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	allswell.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	coriolanus.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	Timon.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	henryviii.txt.L-Shakespeare.tok
+	Early Shakespeare
+
+	Tempest.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	troilus_cressida.txt.L-Shakespeare.tok
+	Early Shakespeare
+
+	Macbeth.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	Cymbeline.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	Cleopatra.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	Othello.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	winters_tale.txt.L-Shakespeare.tok
+	Late Shakespeare
+
+	Measure.txt.L-Shakespeare.tok
+	Early Shakespeare
+
+Marlowe
+	The Jew of Malta.txt.Marlowe.tok
+	Early Shakespeare
+
+	Tamburlaine1.txt.Marlowe.tok
+	Marlowe
+
+	Edward_II.txt.Marlowe.tok
+	Early Shakespeare
+
+	dido.txt.Marlowe.tok
+	Early Shakespeare
+
+	Tamburlaine2.txt.Marlowe.tok
+	Marlowe
+
+	massacare at paris.txt.Marlowe.tok
+	Chapman
+
+	Doctor Faustus.txt.Marlowe.tok
+	Early Shakespeare
+
+Middleton
+	gallants.txt.Middleton.tok
+	Middleton
+
+	the witch.txt.Middleton.tok
+	Middleton
+
+	the second maiden.txt.Middleton.tok
+	Middleton
+
+	catch the old one.txt.Middleton.tok
+	Middleton
+
+	A Chaste Maid in Cheapside.txt.Middleton.tok
+	Middleton
+
+	no wit.txt.Middleton.tok
+	Middleton
+
+	family.txt.Middleton.tok
+	Early Shakespeare
+
+	hengist.txt.Middleton.tok
+	Middleton
+
+	Phoenix.txt.Middleton.tok
+	Middleton
+
+Jonson
+	Poetaster.txt.Jonson.tok
+	Jonson
+
+	Volpone.txt.Jonson.tok
+	Jonson
+
+	Every Man in his Humour.txt.Jonson.tok
+	Jonson
+
+	Bartholmew Fair.txt.Jonson.tok
+	Jonson
+
+	The Alchemist.txt.Jonson.tok
+	Jonson
+
+	THE CASE IS ALTERED.txt.Jonson.tok
+	Chapman
+
+	The Magnetic Lady.txt.Jonson.tok
+	Jonson
+
+	The Staple of News.txt.Jonson.tok
+	Jonson
+
+	The Devil is an Ass.txt.Jonson.tok
+	Jonson
+
+	Catiline His Conspiracy.txt.Jonson.tok
+	Jonson
+
+	A Tale of a Tub.txt.Jonson.tok
+	Jonson
+
+	Cynthias Revels.txt.Jonson.tok
+	Jonson
+
+	Love_Restored.txt.Jonson.tok
+	Jonson
+
+	The New Inn.txt.Jonson.tok
+	Jonson
+
+Chapman
+	BUSSY DAMBOIS.txt.Chapman.tok
+	Chapman
+
+	THE WIDOWS TEARS.txt.Chapman.tok
+	Chapman
+
+	BEGGAR OF ALEXANDRIA.txt.Chapman.tok
+	Chapman
+
+	sir_giles.txt.Chapman.tok
+	Chapman
+
+	THE GENTLEMAN USHER.txt.Chapman.tok
+	Chapman
+
+	AN HUMOROUS DAYS MIRTH.txt.Chapman.tok
+	Chapman
+
+	May Day.txt.Chapman.tok
+	Chapman
+
+	ALL FOOLS.txt.Chapman.tok
+	Chapman
+
+	BYRONS TRAGEDY.txt.Chapman.tok
+	Chapman
+
+	MONSIEUR DOLIVE.txt.Chapman.tok
+	Chapman
+
+	REVENGE CF BUSSY DAMBOIS.txt.Chapman.tok
+	Chapman
+
+Accuracy: 64/77 = 0.8311688311688312
