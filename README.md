@@ -59,7 +59,7 @@ contains the NB generative model by itself as well as the implementation of diff
 
 Same for the SVM generative model (though not as thoroughly explored because it does not seem to perform better than Naive Bayes anyways).
 
-### Results
+## Results
 
 - results.docx 
 
