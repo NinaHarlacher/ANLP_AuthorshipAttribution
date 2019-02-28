@@ -62,6 +62,6 @@ Same for the SVM generative model (though not as thoroughly explored because it 
 
 ## Results
 
-- results.docx 
+- Results.pdf
 
 contains a summary of results of the different models in the form of a table.
