@@ -61,7 +61,11 @@ Computed accuracies for the classifiers and the stop word sets can be found in t
     - NB_feature_engineering.ipynb
 
 contains the NB generative model by itself as well as the implementation of different features. The function get_features_GM_imp(X_train, X_test) was modified for each feature (the columns of the df accessed, creation of count vectorizers if necessary, stacking the original and added data). Different combinations of features were tested and documented. Adding keywords as a feature improved our model best.
-The model is used to attribute two controversial plays.
+The model is used to attribute two additional plays that are not included in the Fox et al. corpus:
+    
+    - yorkshire.txt
+    - puritan.txt
+    
 
 ### SVM
 
