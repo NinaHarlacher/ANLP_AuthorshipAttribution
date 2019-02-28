@@ -71,7 +71,7 @@ The model is used to attribute two additional plays that are not included in the
 
     - SVM_feature_engineering.ipynb
 
-Same for the SVM generative model (though not as thoroughly explored because it does not seem to perform better than Naive Bayes anyways).
+Exploring the SVM generative model (though not as thoroughly because it does not seem to perform better than Naive Bayes anyways).
 
 ## Results
 
