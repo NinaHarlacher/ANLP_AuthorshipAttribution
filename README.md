@@ -36,8 +36,8 @@ Implementation of the n-gram tracing approach. The very last cell can be changed
 Uses each sentence as instance for training data. This approach turned out to be unsuccessful. 
 Two data frames are provided, one with features based on two sets of stop words and the other shows the predictions of the model: 
 
-  - DataFrame_SVM.xlsx
-  - DataFrame_SVM_Preds.xlsx
+  -- DataFrame_SVM.xlsx
+  -- DataFrame_SVM_Preds.xlsx
 
 
 - generative_model.ipynb
