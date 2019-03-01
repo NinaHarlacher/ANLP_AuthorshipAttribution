@@ -8,7 +8,7 @@ Just download all files.
 
 We implemented three models for the attribution of Elizabethan plays to their authors:
 - Bag of Words (Word Frequency with Naive Bayes)
-- N-gram Tracing (relative frequency of ngrams of words/characters)
+- N-gram Tracing (Relative Frequency of ngrams of words/characters)
 - Generative Model with Naive Bayes and SVM
 
 The data (classified plays in .txt format) is contained in the EL folder. 
@@ -27,7 +27,7 @@ The file that is created by the notebook containing names of plays and their att
 
      - n_gram_tracing.ipynb
 
-Implementation of the n-gram tracing approach. The very last cell can be changed whether word or character ngrams should be used as well as their order. The accuracy is calculated and printed in the end.
+Implementation of the n-gram tracing approach (Grieve et al. 2018). The very last cell can be changed whether word or character ngrams should be used as well as their order. The accuracy is calculated and printed in the end.
 
 ## Generative Model 
 
